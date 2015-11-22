@@ -1,0 +1,4 @@
+1.	Verlinke Scene_Group
+2.	Group -> Make Local Group
+3.	Group -> Link Group Objects to Scene
+4.	DELETE EVERYTHING (alles, was man nicht braucht im Shot)
